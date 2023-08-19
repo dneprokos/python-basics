@@ -1,0 +1,2 @@
+This is text file for the demo of the scope blocks
+This is second line of the file
